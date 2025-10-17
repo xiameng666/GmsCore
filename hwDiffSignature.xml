@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apps>
+  <app packageName="com.google.android.gms" signature="CED4D57FBC87E92EBD583BFA7B111EE5AA80A52CC079CC06C8F4EA27F7120243"/>
+  <app packageName="com.android.vending" signature="CED4D57FBC87E92EBD583BFA7B111EE5AA80A52CC079CC06C8F4EA27F7120243"/>
+  <app packageName="com.google.android.gms" signature="9BD06727E62796C0130EB6DAB39B73157451582CBD138E86C468ACC395D14165"/>
+  <app packageName="com.android.vending" signature="9BD06727E62796C0130EB6DAB39B73157451582CBD138E86C468ACC395D14165"/>
+
+  <app packageName="com.google.android.gms" signature="5EA3F25E86E237ECF05102192EC4D5263EEEFB9BB54056BCB6522CD4FFB4EAF4"/>
+  <app packageName="com.android.vending" signature="5EA3F25E86E237ECF05102192EC4D5263EEEFB9BB54056BCB6522CD4FFB4EAF4"/>
+</apps>
